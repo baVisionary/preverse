@@ -1,2 +1,2 @@
-# preverse
+# proverse
 Threaded messaging app
